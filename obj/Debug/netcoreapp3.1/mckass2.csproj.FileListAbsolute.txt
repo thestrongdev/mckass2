@@ -1,0 +1,13 @@
+C:\Users\goods\source\repos\mckass2\bin\Debug\netcoreapp3.1\mckass2.exe
+C:\Users\goods\source\repos\mckass2\bin\Debug\netcoreapp3.1\mckass2.deps.json
+C:\Users\goods\source\repos\mckass2\bin\Debug\netcoreapp3.1\mckass2.runtimeconfig.json
+C:\Users\goods\source\repos\mckass2\bin\Debug\netcoreapp3.1\mckass2.runtimeconfig.dev.json
+C:\Users\goods\source\repos\mckass2\bin\Debug\netcoreapp3.1\mckass2.dll
+C:\Users\goods\source\repos\mckass2\bin\Debug\netcoreapp3.1\mckass2.pdb
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.csprojAssemblyReference.cache
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.AssemblyInfoInputs.cache
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.AssemblyInfo.cs
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.csproj.CoreCompileInputs.cache
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.dll
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.pdb
+C:\Users\goods\source\repos\mckass2\obj\Debug\netcoreapp3.1\mckass2.genruntimeconfig.cache
