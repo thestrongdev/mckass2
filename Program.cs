@@ -49,6 +49,23 @@ namespace mckass2
             string [] starChars = {"Obi", "Luke", "Chewbacca", "Yoda", "Han", "Leia", "R2D2", "C3PO", "Darth"};
             //YODA AT INDEX 3
             Console.WriteLine(Challenge.AddStarWarsCharacters(starChars));
+            Console.WriteLine();
+
+            //TEST TRYTOCATCHDARTHVADER
+            Console.WriteLine("TRYTOCATCHDARTHVADER TEST");
+            Console.WriteLine("Enter number to test: ");
+            string testValue = Console.ReadLine();
+
+            try
+            {
+                Challenge.TryToCatchDarthVader(testValue);
+                Console.WriteLine();
+            }
+            catch(FormatException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
+            }
 
         }
     }

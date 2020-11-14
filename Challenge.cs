@@ -8,7 +8,23 @@ namespace mckass2
 {
     class Challenge
     {
-        
+        public static string TryToCatchDarthVader(string toBeParsed)
+        {
+            bool parsed = int.TryParse(toBeParsed, out int caught);
+
+            if (parsed)
+            {
+                return "Vader Was Captured!";
+            }
+            else
+            {
+                
+                throw new FormatException("Vader Got Away!"); //ask if this actually has to have the "return" value after it???
+            }
+
+
+        }
+
         public static double AverageDroids(List<int> droids)
         {
             List<int> evenDroids = new List<int>();
